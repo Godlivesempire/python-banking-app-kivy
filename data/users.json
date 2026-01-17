@@ -1,0 +1,28 @@
+{
+    "john": {
+        "pin": "1234",
+        "balance": 0
+    },
+    "mary": {
+        "pin": "4321",
+        "balance": 50
+    },
+    "Seshie": {
+        "pin": "1111",
+        "balance": 1610
+    },
+    "Mawuli": {
+        "pin": "1111",
+        "balance": 58840
+    },
+    "Emmanual": {
+        "account_number": "GE19388438",
+        "pin": "1919",
+        "balance": 0
+    },
+    "Akpene": {
+        "account_number": "GE83420157",
+        "pin": "12345",
+        "balance": 0
+    }
+}
