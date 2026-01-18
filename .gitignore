@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 users.json
 secure/
+vault_manager.py
+run_vault.py
+desktop.ini
+
