@@ -5,4 +5,5 @@ secure/
 vault_manager.py
 run_vault.py
 desktop.ini
-
+*.ini
+*.DS_Store
